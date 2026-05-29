@@ -106,7 +106,7 @@ export const siteData = {
         "Pašaliname medžių kelmus specialia frezavimo technika – greitai, švariai ir be didelių žemės darbų. Teritorija bus paruošta naudojimui tuoj po darbo.",
     },
     {
-      slug: "apleistų-sklypu-tvarkymas",
+      slug: "apleistu-sklypu-tvarkymas",
       kategorija: "Apleistų sklypų tvarkymas",
       ikona: "Leaf",
       foto: "/images/services/03.jpg",
@@ -121,7 +121,7 @@ export const siteData = {
         "Sutvarkome apleistus sklypus – šaliname krūmus, medžius, šakas ir kitas atliekas. Rezultatas: švari, tvarkinga ir paruošta naudojimui teritorija.",
     },
     {
-      slug: "saku-iszveimas",
+      slug: "saku-isvezimas",
       kategorija: "Šakų išvežimas",
       ikona: "Truck",
       foto: "/images/services/04.jpg",
